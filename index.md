@@ -6,7 +6,7 @@ This is my cover letter for Lumen Learning, a company that I would absolutely lo
 As someone who spent their last semester of college "learning" through Zoom lectures and take-home-tests, I know what it's like to not have the best classroom experience. Lumen's resources for teachers and students are a great way to improve this experience, I'd love to help get these resources to teachers and students all over to make sure the learning experience is a positive one for everyone.
 
 ### What would make me a good python developer or data analyst?
-Good question! I started learning python a little over two years ago, but I really got into it after quarantine started. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!
+Good question! I've been using python a little over two years ago, but I really got into it after quarantine started. I also took some probability and statistics classes while studying at UT. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!
 
 My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on. 
 
